@@ -1,0 +1,20 @@
+Header
+    Hero - component
+        Image
+        Name
+        Short desc
+        Contact links (hyperlinks)
+Body
+    About - component
+    Projects - componenet
+          Card - component
+            Image
+            Title (hyperlink)
+            Subtitle
+            Link
+    Blogs - componenet
+        Title (hyperlink)
+        Body (few lines)
+        Date of creation
+Footer
+    One liner
